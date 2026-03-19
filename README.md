@@ -46,6 +46,8 @@ VSS: connected to Blue rail
 
 
 ** if the lcd screen turns on but is only displaying white blocks, likely the potentiometer, adjust it. 
+issue: currently my board only supplies 5v - this means the lcd and the motion sensor are both fighting for the same power, this results in the occasional lag of to power on the sensor
+which may throw the distance measurements off briefly. 
 
 
 
