@@ -1,4 +1,5 @@
-![Circuit Overview](circuitImage1.PNG)
+![Circuit Overview 1](circuitImage1.PNG)
+![Circuit Overview 2](circuitImage2.PNG)
 # elegoo-radar-security-scanner
 a real time motion decteing security scanner using an Elegoo mega board. 
 checks for distance away from sensor, records and updates distance on lcd screen and alerts when distance is below 15cm
